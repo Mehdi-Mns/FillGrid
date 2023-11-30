@@ -10,6 +10,7 @@ J'ai part ailleurs rajouté la possibilité s'importer des grilles préremplies 
 
 # Installation
 Cloner le repository avec le lien suivant : 
+
 https://github.com/Mehdi-Mns/FillGrid.git
 
 Ensuite dans Android Studio, lancez la build du projet.
