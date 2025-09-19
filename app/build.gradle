@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.example.filgrid"
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
