@@ -44,9 +44,9 @@
 ## Installation et utilisation
 
 1. Ouvrir le projet dans Android Studio.  
-2. Branche un appareil Android ou lance un émulateur.  
-3. Clique sur **Run → Run 'app'**.  
-4. L’application démarre avec le menu principal, où tu peux choisir la dimension et le niveau.
+2. Brancher un appareil Android ou lancer un émulateur.  
+3. Cliquer sur **Run → Run 'app'**.  
+4. L’application démarre avec le menu principal, où on peut choisir la dimension et le niveau.
 
 ## Build Apk
 
