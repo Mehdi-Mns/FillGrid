@@ -17,8 +17,6 @@
 - Stockage du **HighScore** et du nom du joueur via SharedPreferences.  
 - Interface simple et responsive, avec images PNG pour les grilles ou boutons.
 
----
-
 ## Structure du projet
 
 - `MainActivity.java` : logique du jeu, gestion du timer, HighScore et interaction des cases.  
@@ -29,17 +27,14 @@
 - `res/layout/` : fichiers XML pour les layouts des activités et fragments.  
 - `build/` : contient les fichiers générés lors de la compilation (APK, classes compilées).
 
----
-
 ## Pré-requis
 
 - Android Studio compatible avec **Gradle 8.3 / 8.5**.  
 - SDK Android installé (API 21+ recommandé).   
 
 > ⚠️ Le projet a été porté depuis une version Android de 2021. Certaines dépendances ou layouts peuvent nécessiter un **rebuild complet** lors de l’ouverture dans Android Studio récent.
-> ⚠️ a partie import via le server web n'est plus disponible.
 
----
+> ⚠️ La partie import via le server web n'est plus disponible.
 
 ## Installation et utilisation
 
